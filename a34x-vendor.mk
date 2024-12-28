@@ -2429,7 +2429,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleEx4RISCV \
     HotwordEnrollmentXGoogleEx4RISCV \
     com.android.hotwordenrollment.common.util \
-    android.hardware.cas@1.2-service-lazy.xml \
     android.hardware.dumpstate@1.1-service-lazy.xml \
     android.hardware.neuralnetworks@1.3-service-mtk-mdla-dsp-gpu.xml \
     android.hardware.usb@1.3-service.coral.xml \
