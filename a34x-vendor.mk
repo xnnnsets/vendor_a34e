@@ -2432,12 +2432,10 @@ PRODUCT_PACKAGES += \
     android.hardware.cas@1.2-service-lazy.xml \
     android.hardware.dumpstate@1.1-service-lazy.xml \
     android.hardware.neuralnetworks@1.3-service-mtk-mdla-dsp-gpu.xml \
-    android.hardware.sensors@2.0-multihal-mtk.xml \
     android.hardware.usb@1.3-service.coral.xml \
     android.hardware.wifi.hostapd-mtk.xml \
     android.hardware.wifi.supplicant-mtk.xml \
     android.hardware.wifi@1.0-service-mtk.xml \
     manifest_android.hardware.drm@1.4-service.clearkey.xml \
     manifest_android.hardware.drm@1.4-service.widevine.xml \
-    power-default-mtk.xml \
     sec.android.hardware.nfc@1.2-service.xml
